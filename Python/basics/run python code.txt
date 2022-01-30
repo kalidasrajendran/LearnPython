@@ -1,0 +1,10 @@
+
+// run a particular function in a python file
+// here
+// main is the file
+// list_all_files is the function name
+python -c "import main; main.list_all_files('D:\volumeE_Contents')"
+
+// run a python file
+// the python file should contain main function for this command to execute
+python main.py

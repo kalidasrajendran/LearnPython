@@ -1,0 +1,12 @@
+
+// install virtual environment
+pip install virtualenv
+
+// create virtual environment
+virtualenv -p C:\softwares\python\3_9_0\python.exe python390
+
+// activate
+python390\Scripts\activate.bat
+
+// deactivate
+deactivate
